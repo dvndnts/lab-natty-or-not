@@ -7,7 +7,7 @@ O e-book oferece uma perspectiva sobre como a IA está sendo aplicada e pode ser
 
 
 ## 🤖 Tecnologias Utilizadas
-* IA Generativa [ChatGPT](https://chat.openai.com/) para roterização;
+* IA Generativa [ChatGPT](https://chat.openai.com/) para roteirização;
 * IA Generativa [Gamma](https://gamma.app/).
 
 ## 🧐 Processo de Criação
