@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA e Saúde Mental: Uma Nova Fronteira
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+O e-book oferece uma perspectiva sobre como a IA está sendo aplicada e pode ser aplicada no cuidado com a saúde mental. Desde o diagnóstico até tratamentos, terapias para diversos tipos de transtornos e gestão de medicamentos, ele aborda o espectro de possibilidades que a IA traz para melhorar a qualidade de vida de pessoas com transtornos psicológicos.
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* IA Generativa [ChatGPT](https://chat.openai.com/) para roterização;
+* IA Generativa [Gamma](https://gamma.app/).
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para estruturar o conteúdo. Após isso, utilizei o Gamma.app para gerar o visual do e-book baseando-se na roteirização e, também, para criar uma versão traduzida para Português.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+## 🧠 Resultados
+O resultado foi um e-book que oferece uma perspectiva de como a IA está sendo e pode ser aplicada no cuidado com a saúde mental, desde o diagnóstico até tratamentos, terapias para alguns tipos de transtornos e gestão de medicamentos.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[PDF do e-book em Português](https://github.com/dvndnts/lab-natty-or-not/blob/main/IA-e-Saude-Mental-Uma-Nova-Fronteira.pdf)
 
-### Exemplos e Insigths
+[PDF do e-book em Inglês](https://github.com/dvndnts/lab-natty-or-not/blob/main/AI-and-Mental-Health-A-New-Frontier-en-us.pdf)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+A utilização dessas ferramentas de IA generativa proporciona uma nova perspectiva, demonstrando que as IAs, em conjunto com a criatividade humana, têm o potencial não apenas de aumentar a produtividade e auxiliar em programação e outras atividades, mas também de melhorar diretamente a qualidade de vida das pessoas. Fica claro que essa colaboração não visa substituir profissionais essenciais, mas sim complementar e estender o alcance de seus trabalhos, oferecendo um suporte valioso em diversas áreas, incluindo a saúde mental.
